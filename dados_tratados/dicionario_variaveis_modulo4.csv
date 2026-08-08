@@ -1,0 +1,15 @@
+﻿variavel;descricao;uso
+acidente_fatal;"1 se mortos >= 1; 0 se mortos = 0";alvo
+total_vitimas;mortos + feridos_leves + feridos_graves;analise/dashboard
+acidente_grave;"1 se mortos >= 1 ou feridos_graves >= 1; 0 caso contrário";analise/dashboard
+indice_gravidade;mortos*3 + feridos_graves*2 + feridos_leves*1;analise/dashboard
+ano;Ano do acidente extraído de data_inversa;analise/modelagem
+mes;Mês do acidente (1-12);analise/modelagem
+trimestre;Trimestre do acidente (1-4);analise/modelagem
+dia_semana_num;Dia da semana numérico (0=segunda a 6=domingo);analise/modelagem
+fim_de_semana;"1 se sábado ou domingo; 0 caso contrário";analise/modelagem
+hora;Hora do acidente extraída de horario (0-23);analise/modelagem
+turno;Classificação do turno: MADRUGADA, MANHA, TARDE, NOITE, IGNORADO;analise/modelagem
+faixa_horaria;Bloco de 3 horas (ex: 00h-02h, 03h-05h);analise/modelagem
+br_formatada;BR padronizada no formato BR-000;analise/modelagem
+chave_localidade;UF + municipio + BR formatada;analise/dashboard
