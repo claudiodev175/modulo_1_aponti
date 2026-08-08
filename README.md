@@ -178,9 +178,6 @@ Módulo 7	Árvore de Decisão	Base Modelável
 👤 Autor
 Cláudio Vinícius Coelho Barros
 
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
 📝 Agradecimentos
 Polícia Rodoviária Federal (PRF) – pela disponibilização dos dados públicos
 
