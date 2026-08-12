@@ -1,6 +1,6 @@
 # Decisões de Tratamento - Módulo 4
 
-**Data de geração:** 2026-08-08 13:21
+**Data de geração:** 2026-08-12 10:30
 **Projeto:** PRF Acidentes 2025
 **Responsável:** Seu Nome
 
